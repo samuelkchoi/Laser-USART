@@ -4,6 +4,8 @@ This final project for CS122A at UCR was programmed in C with Atmel Studio 7.0.
 ### Major Components
   * **2 x ATmega1284:** *Microcontrollers to communicate with via USART.*
   * **Schmitt Trigger (2N3904 Transistor):** *Comparator circuit used in conjuction with voltage dividers.*
+  ![schmitt](https://user-images.githubusercontent.com/9040611/33705611-d537e2a2-dae5-11e7-8a60-93f6f63c9f89.jpg)
+  * **CMOS Inverter** *Comparator circuit used in conjuction with voltage dividers.*
   * **650nm 5V Laser Dot Diode & GM5539 Photoresistor** *Laser and Photoresistor used as transmitter and receiver respectively.*
   
 ### Project Description
