@@ -2,7 +2,7 @@
 This final project for CS122A at UCR was programmed in C with Atmel Studio 7.0.  
 
 ### Project Description
-   * *Lorem Ipsum*
+   * *Laser USART allows for serial communication between two ATmega1284 microcontrollers via USART without the need for them to be connected with physical wires. In typical USART communication, the leader microcontroller is connected to the follower from the TX to the RX pins respectively. With laser communication, specific circuits are utilized (more information below) to replace typical wires. The practical applications for this include: long distance communication, universal "plug-and-play" application to any program that uses USART, and breaking line-of-sight communication.*
 
 ### Major Components
   * **2 x ATmega1284:** *Microcontrollers to communicate with via USART.*
